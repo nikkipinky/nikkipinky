@@ -1,73 +1,92 @@
-# 👋 Hi there! I'm Sai Nikhitha Madireddy
-🚀 **Software Engineer | Full-Stack Developer | ML/AI Specialist**
+# 👋 Hi there! I'm **Sai Nikhitha Madireddy**
+🚀 **Full-Stack Software Engineer | Database Developer | Machine Learning Enthusiast**
 
-🔹 Passionate about **crafting high-quality, scalable applications** by blending full-stack development, machine learning, and optimized database solutions.
-🔹 Proven ability to drive system performance, achieving **up to 40% efficiency optimization** and **30% database performance enhancement**.
-🔹 Experienced in the full **SDLC** across Agile environments, currently contributing to a large-scale system at **Community Dreams Foundation**.
-
----
-
-## 📚 Education
-| Degree | Institution | Location | Graduation Date | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| 🎓 **MS in Computer Science** | **California State University, Los Angeles** | Los Angeles, CA | May 2025 | **Special Recognition (Top 10% of class)** |
-| 🎓 **BTech in Computer Science** | MLR Institute of Technology | Hyderabad, India | July 2022 | |
+🔹 Passionate about designing and optimizing **data-driven applications** with modern frameworks and efficient database architectures.  
+🔹 Skilled in **SQL and NoSQL databases** — from schema design and query optimization to API integration and performance tuning.  
+🔹 Experienced in **full-stack development** using **ReactJS, Node.js, and Python**, and integrating **machine learning** for intelligent insights.  
 
 ---
 
-## 💼 Work Experience
-### **Software Engineer | Community Dreams Foundation** *(Aug 2025 – Present)*
-* **Developed** and defined system functionality, ensuring software met high-quality standards.
-* **Deployed** robust software solutions using **Java, C++,** and **JavaScript**, handling end-to-end development and maintenance in a large-scale system.
+## 🎓 Education
+🎓 **Master of Science in Computer Science** – *California State University, Los Angeles* (GPA: 3.84/4.00)  
+*Graduated: May 2025 | Top 10% of Program*  
 
-### **Software Engineer | California State University, Los Angeles** *(Aug 2023 – May 2025)*
-* **Engineered** and optimized ServiceNow workflows, directly **enhancing system performance by 40%**.
-* **Developed** and deployed internal software tools that streamlined IT operations, **reducing issue resolution time**.
+🎓 **Bachelor of Technology in Computer Science** – *MLR Institute of Technology, India* (GPA: 3.58/4.00)  
+*Graduated: July 2022*  
 
-### **Systems Engineer | Tata Consultancy Services** *(Aug 2022 – Aug 2023)*
-* **Built** a full-stack web application with **AngularJS, ReactJS, and Node.js**, ensuring cross-platform compatibility.
-* **Enhanced database performance by 30%** by tuning queries and schemas using **PostgreSQL & Oracle SQL on Microsoft Azure**.
+---
 
-### **Junior Software Engineer | EPAM Systems** *(Jan 2022 – June 2022)*
-* **Developed** scalable software using **Python, Java,** and **Node.js**, enhancing overall application performance and UX.
-* **Utilized Agile workflows** with **Git** and **MySQL** for version control and database management, ensuring high-quality applications.
+## 💼 Professional Experience
 
-### **Software Engineer | Virtusa Consulting Services** *(Aug 2021 – Dec 2021)*
-* **Created** optimized software with **Python, Java, and JavaScript**, focusing on debugging and advanced problem-solving.
-* **Executed end-to-end development** in an Agile environment, applying expertise to deliver efficient client solutions.
+### **Software Engineer | Community Dreams Foundation** *(Aug 2025 – Present)*  
+- Executed the **full Software Development Life Cycle (SDLC)** with adherence to industry standards.  
+- Improved project definition clarity by **20%**, leading to smoother team collaboration.  
+- Developed and deployed robust solutions using **Java, C++, and JavaScript** for large-scale systems.  
+- Collaborated with teams to **debug, upgrade, and maintain** applications while integrating key user feedback.
+
+### **Software Engineer | California State University, Los Angeles** *(Aug 2023 – May 2025)*  
+- Engineered and optimized **ServiceNow workflows and web apps**, improving performance by **40%**.  
+- Developed internal tools that **streamlined IT operations**, reducing resolution time and boosting efficiency.  
+- Maintained **secure and scalable systems**, achieving **99.9% uptime** across university infrastructure.
+
+### **Systems Engineer | Tata Consultancy Services** *(Aug 2022 – Aug 2023)*  
+- Built a **full-stack web app** with **Node.js**, serving over **500+ daily users**.  
+- Enhanced **PostgreSQL & Oracle SQL** database performance by **30%** through query optimization.  
+- Deployed applications on **Microsoft Azure**, ensuring high availability and cross-platform support.
+
+### **Junior Software Engineer | EPAM Systems** *(Jan 2022 – Jun 2022)*  
+- Developed scalable applications using **Python, Java, and Node.js**.  
+- Implemented **database optimization** and Agile development workflows with **MySQL & Git**.  
+- Contributed to improving **application performance and user experience**.
+
+### **Software Engineer Intern | Virtusa Consulting Services** *(Aug 2021 – Dec 2021)*  
+- Delivered **end-to-end software solutions** in **Python, Java, and JavaScript** under Agile methodology.  
+- Ensured **100% on-time delivery** across all SDLC phases, emphasizing debugging and optimization.
 
 ---
 
 ## 🛠️ Technical Skills
-* **Languages & Frameworks:** **Python**, **Java**, **C#**, **JavaScript**, **TypeScript**, **C**, **C++**, **ReactJS**, **AngularJS**, **NextJS**, **Node.js**, **Express.js**
-* **Databases & Web Technologies:** **PostgreSQL**, **MySQL**, **MongoDB**, **Oracle RDBMS**, **HTML**, **CSS**, **GraphQL**, **REST**, **Vite**, **Bootstrap**, **Tailwind CSS**, **Postman**
-* **Machine Learning & Data:** **TensorFlow**, **Pandas**, **NumPy**, **Scikit-learn**, **OpenCV**, Recommendation Systems
-* **Cloud, DevOps & Tools:** **Azure**, **Git**, **VSCode**, Windows, Linux
+
+💻 **Languages:** Python, Java, C#, JavaScript, TypeScript, C, C++  
+🧩 **Frameworks:** ReactJS, AngularJS, NextJS, Node.js, Express.js, Bootstrap, Tailwind CSS, Vite  
+🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Oracle SQL  
+🌐 **Web Technologies:** HTML, CSS, GraphQL, REST, Postman  
+🧠 **Machine Learning Tools:** TensorFlow, Pandas, NumPy, Scikit-learn, OpenCV, Recommendation Systems  
+☁️ **Cloud & Tools:** Microsoft Azure, Git, VSCode, Windows, Linux, Vercel  
 
 ---
 
-## 🚀 Notable Projects
-### 💬 **Chat Mentor (AI Mentorship Platform)**
-* **Engineered** a full-stack AI platform using **React.js/Node.js/PostgreSQL/OpenAI API** to deliver personalized academic and professional guidance, including real-time interview simulations.
+## 🚀 Projects
+
 ### 🥗 **Meal Planner Application**
-* **Built** a full-stack meal planning app with authenticated **RESTful APIs, responsive UI**, and robust food data integration using **Node.js, Express.js, MongoDB, and Svelte.js**.
-### 🛍️ **Virtual Trial Room**
-* **Developed** a real-time virtual try-on system with **ML-based image overlay** using **Python, OpenCV, PyTorch, and TensorFlow**, enabling interactive AR clothing demos.
+*Node.js | Express.js | MongoDB | Svelte.js | Spoonacular API*  
+- Built a **responsive full-stack app** with **authenticated RESTful APIs** and real-time food data integration.  
+
+### 💬 **Chat Mentor**
+*Node.js | Express.js | PostgreSQL | OpenAI API*  
+- Designed an **AI-driven platform** for personalized academic and career guidance, including **interview simulation and feedback**.  
+
+### 👗 **Virtual Trial Room**
+*Python | OpenCV | PyTorch | TensorFlow*  
+- Created a **real-time AR try-on system** enabling interactive clothing visualization using computer vision.  
 
 ---
 
 ## 📜 Certifications
-* **The Full Stack** – Meta
-* **Machine Learning** – University of Washington
-* **Data Structures and Algorithms** – UC San Diego
-* **Programming in Python** – Meta
-* **Object Oriented Programming in Java** – UC San Diego
-* **MongoDB Node.js Developer Path** – MongoDB
+✔ **The Full Stack** – Meta  
+✔ **Machine Learning** – University of Washington  
+✔ **Data Structures and Algorithms** – UC San Diego  
+✔ **Programming in Python** – Meta  
+✔ **Object Oriented Programming in Java** – UC San Diego  
+✔ **MongoDB Node.js Developer Path** – MongoDB  
 
 ---
 
-## 📫 Connect with Me
-🔗 **LinkedIn:** [linkedin.com/in/sai-nikhitha-madireddy](https://www.linkedin.com/in/sai-nikhitha-madireddy/)
-🌐 **Portfolio:** [sainikhithamadireddy.com](https://www.sainikhithamadireddy.com/)
+## 🌐 Connect with Me
+🔗 **LinkedIn:** [linkedin.com/in/sai-nikhitha-madireddy](https://www.linkedin.com/in/sai-nikhitha-madireddy/)  
+💼 **Portfolio:** [sainikhithamadireddy.com](https://www.sainikhithamadireddy.com/)  
+💻 **GitHub:** [github.com/nikkipinky](https://github.com/nikkipinky)  
 
-🚀 **Let's collaborate and build something amazing!**
+---
+
+🧩 *“Design the data first — scalable systems will follow.”*  
